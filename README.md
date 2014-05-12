@@ -1,7 +1,5 @@
 Nachos
 ======
-
-It is a toy
                       Nachos for Java README
 
 Welcome to Nachos for Java. We believe that working in Java rather than
